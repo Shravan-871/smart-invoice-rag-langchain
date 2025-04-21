@@ -1,2 +1,2 @@
 # smart-invoice-rag-langchain
-An intelligent document parsing solution that uses LangChain, ChromaDB, and Ollama’s Mistral LLM to extract structured data from unstructured invoice PDFs.
+An intelligent document parsing solution that uses LangChain, ChromaDB, and Ollama’s Mistral LLM to extract structured data from unstructured invoice PDFs. This beginner-friendly AI project demonstrates how to build a Retrieval-Augmented Generation (RAG) pipeline in Python, containerized with Docker, and powered by streamlit for interactive Q&A and real-time data extraction.
